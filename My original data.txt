@@ -1,1 +1,2 @@
-Contains important data!
+Contains important dåta!
+One Type of change
