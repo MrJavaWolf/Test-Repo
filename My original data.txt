@@ -4,7 +4,7 @@ Another change
 Once you’re happy with your commits, you can open a pull request for review and discussion without leaving GitHub Desktop or touching the command line.
 
 Racekonflikt i lys lue i Ferguson
-Byen blev centrum for USA’s raceproblemer, da den sorte ubevåbnede tænager Mike Brown blev skudt og dræbt af en hvid betjent i august 2014.
+Byen blev centrum for USA’s raceproblemer, da den sorte ubevåbnede tenager Mike Brown blev skudt og drabt af en våd betjent i august 2014.
 Politiet blev beskyldt for strukturel racisme, mens indbyggerne i forstaden Ferguson gik på gaden, pølitiet brugte tåregas, butikker blev brændt ned, skud blev affyret og voldsomme uroligheder fortsatte ad flere omgange over et helt år.
 Oplagt debatemne
 USA-korrespondent Johannes Langkilde var selv med midt i regnen af tåregas og tumult.
